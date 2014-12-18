@@ -1,0 +1,3 @@
+1. Viewing a diff between two verisons of a file help me see the difference that was in between the two files with the '-' sign that made me see the difference as that '-' sign meant the content that is different from the other version of the file.
+
+2. If we have easy access to the entire history of a file, we always have the control for our previous versions of the file and if we don't like the new thing that we implemented, we can always go back to the older versions and still will be able to have access to our old files.
