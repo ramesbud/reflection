@@ -1,0 +1,10 @@
+1. Viewing a diff between two verisons of a file help me see the difference that was in between the two files with the '-' sign that made me see the difference as that '-' sign meant the content that is different from the other version of the file.
+
+2. If we have easy access to the entire history of a file, we always have the control for our previous versions of the file and if we don't like the new thing that we implemented, we can always go back to the older versions and still will be able to have access to our old files.
+
+3. Manually choosing will help you on what to commit and when to commit, whereas automatically saved will save the commits even if we do not want the commits to be saved.
+
+4. Git we use for programming purpose, and one program contain multiple files, while others treat each file separately as those files are individual files.
+
+5. git log will give u the history of the commits made, and git diff compare two commits to see what lines of code has been added or deleted
+
